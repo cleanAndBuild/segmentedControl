@@ -3,7 +3,7 @@
 //  segmentedControl
 //
 //  Created by Step App School on 2017/06/23.
-//  Copyright © 2017年 Yako Kobayashi. All rights reserved.
+//  Copyright © 2017年 Step App School. All rights reserved.
 //
 
 import UIKit
