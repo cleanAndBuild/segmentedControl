@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  segmentedControl
 //
-//  Created by Kobayashi Yako on 2017/06/23.
+//  Created by Step App School on 2017/06/23.
 //  Copyright © 2017年 Yako Kobayashi. All rights reserved.
 //
 
